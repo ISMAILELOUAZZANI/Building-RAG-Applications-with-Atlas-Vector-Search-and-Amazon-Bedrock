@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo
+sentence-transformers
+boto3
+openai
+python-dotenv
